@@ -2,7 +2,7 @@
 
 ## Backend Developer Python | Computer Engineering Student
 
-🎓 3rd year Computer Engineering student at Universidad de Palermo (Associate degree obtained)  
+🎓 4th year Computer Engineering student at Universidad de Palermo (Associate degree obtained)  
 💻 Specialized in backend development with Python and Django  
 🌱 Currently learning Django, REST APIs and software architecture  
 📍 Buenos Aires, Argentina
